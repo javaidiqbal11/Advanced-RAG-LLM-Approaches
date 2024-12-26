@@ -133,9 +133,11 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - **Description**: Self-RAG (Retrieve-Then-Answer Generation) is a technique that leverages a retriever model to extract relevant information and a generator model to produce detailed responses based on the retrieved content.
   - **Use Case**: Ideal for automated customer support systems, enabling them to retrieve specific answers from a knowledge base and generate accurate, natural language responses.
 
-- **Corrective RAG (CRAG)** :flying_saucer:
+- **[Corrective RAG (CRAG)](https://arxiv.org/abs/2401.15884)** :flying_saucer:
   - **Description**: Refines and corrects outputs based on retrieved context from a knowledge source.
   - **Use Case**: Ideal for document review systems where corrections are needed based on real-time knowledge retrieval, such as updating legal documents or revising technical reports.
+  ![CRAG](https://github.com/javaidiqbal11/Advanced-RAG-Approaches/blob/593b6d30215c7e00e0b19e512189f63227128747/materials/CRAG_Architecture.png) <br>
+  [Source](https://arxiv.org/abs/2401.15884)
 
 - **RAPTOR RAG** :flying_saucer:
   - **Description**: Optimized for speed and accuracy using advanced retriever algorithms with streamlined processing.
