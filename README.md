@@ -1,6 +1,6 @@
 # Advanced RAG Approaches :compass: 
 
-## 1. RAGs Types and Use Cases :arrow_double_up 
+## 1. RAGs Types and Use Cases ⏫
 
 ![RAG Pipeline](materials/RAG_Pipeline.jpg) <br>
 [RAG Pipeline Source](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)
