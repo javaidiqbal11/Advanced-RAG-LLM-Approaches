@@ -1,12 +1,12 @@
-# Advanced RAG Approaches 🧭
+# Advanced RAG Approaches🧭
 
-## 1. RAGs Types and Use Cases ⏫
+## 1. RAGs Types and Use Cases⏫
 
 ![RAG Pipeline](materials/RAG_Pipeline.jpg) <br>
 [RAG Pipeline Source](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)
 
 
-### 1.1 RAG with Test Cases :rocket:
+### 1.1 RAG with Test Cases🚀
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
 - **Contextual Compression RAG** :flying_saucer:
