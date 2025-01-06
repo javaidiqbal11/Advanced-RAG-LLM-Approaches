@@ -240,3 +240,4 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 [3]. [What is RAG (Retrieval-Augmented Generation) by AWS?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) <br>
 [4]. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) <br>
 [5]. [Advanced RAG](https://github.com/NisaarAgharia/Advanced_RAG)
+[6]. [Latest Advancements in RAG](https://www.linkedin.com/pulse/latest-advancements-rag-every-developer-should-know-pavan-belagatti-jommc/)
