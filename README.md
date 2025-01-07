@@ -233,6 +233,8 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Document Chunking***: Optimize document chunk sizes for better retrieval accuracy.
 - ***Multi-hop Retrieval***: Enable retrieval across multiple document steps to answer complex queries.
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
+## LangGraph 
+LangGraph is a graph-based framework or system designed to manage, connect, and visualize relationships between various data points in natural language processing (NLP) and AI-driven language models. It uses graph structures to represent words, phrases, or concepts as nodes, with relationships between them as edges, enabling more intuitive semantic understanding.
 
 ## 5. Resources ℹ️
 [1]. [Prompt Engineering Guide by OpenAI](https://www.promptingguide.ai/) <br> 
