@@ -248,5 +248,6 @@ LangGraph ReAct Agent is a component or framework used for integrating language 
 [2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) <br>
 [3]. [What is RAG (Retrieval-Augmented Generation) by AWS?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) <br>
 [4]. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) <br>
-[5]. [Advanced RAG](https://github.com/NisaarAgharia/Advanced_RAG)
-[6]. [Latest Advancements in RAG](https://www.linkedin.com/pulse/latest-advancements-rag-every-developer-should-know-pavan-belagatti-jommc/)
+[5]. [Advanced RAG](https://github.com/NisaarAgharia/Advanced_RAG) <br>
+[6]. [Latest Advancements in RAG](https://www.linkedin.com/pulse/latest-advancements-rag-every-developer-should-know-pavan-belagatti-jommc/) <br>
+[7] [LangGraph](https://langchain.com/langgraph)
