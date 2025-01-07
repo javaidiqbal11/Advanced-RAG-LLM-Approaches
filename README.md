@@ -233,13 +233,15 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Document Chunking***: Optimize document chunk sizes for better retrieval accuracy.
 - ***Multi-hop Retrieval***: Enable retrieval across multiple document steps to answer complex queries.
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
-## LangGraph 
+## LangGraph 🌅
 LangGraph is a graph-based framework or system designed to manage, connect, and visualize relationships between various data points in natural language processing (NLP) and AI-driven language models. It uses graph structures to represent words, phrases, or concepts as nodes, with relationships between them as edges, enabling more intuitive semantic understanding.
 ### Use Cases in LangGraph 
 - **Conversational AI:** Managing dynamic context and topic tracking.
 - **Semantic Search:** Enhancing search engine results with better contextual relevance.
 - **Knowledge Graph Integration:** Building intelligent systems that reason over interconnected data (e.g., chatbots).
 - **Text Summarization and Generation:** Structuring content creation with more context-aware results.
+**LangGraph React Agent** is a component or framework used for integrating language models, like those powered by GPT, with React applications. It acts as a middleware or agent that facilitates dynamic interaction between a React frontend and language processing capabilities, enhancing user experiences with conversational interfaces or intelligent automation. 
+[LangGraph ReAct Agent Framework](https://github.com/javaidiqbal11/react-agent)
 
 ## 5. Resources ℹ️
 [1]. [Prompt Engineering Guide by OpenAI](https://www.promptingguide.ai/) <br> 
