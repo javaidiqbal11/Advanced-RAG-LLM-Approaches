@@ -235,9 +235,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 ## LangGraph 🌅
 LangGraph is a graph-based framework or system designed to manage, connect, and visualize relationships between various data points in natural language processing (NLP) and AI-driven language models. It uses graph structures to represent words, phrases, or concepts as nodes, with relationships between them as edges, enabling more intuitive semantic understanding.
-
 ![LangGraph](https://github.com/javaidiqbal11/Advanced-RAG-Approaches/blob/3e1e08d3ccea617f0e6ef84b88a415ce6d4ef189/materials/LanggRaph_studio_ui.png)
-
 ### Use Cases in LangGraph 
 - **Conversational AI:** Managing dynamic context and topic tracking.
 - **Semantic Search:** Enhancing search engine results with better contextual relevance.
