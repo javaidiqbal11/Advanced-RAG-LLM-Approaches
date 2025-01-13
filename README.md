@@ -151,7 +151,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - **Description**: Uses multiple feedback loops to refine and improve the relevance of retrieved data for complex queries.
   - **Use Case**: Ideal for scenarios requiring iterative query refinement, such as legal document analysis or multi-step research, where accurate retrieval from large datasets is critical.
 
-### 1.2 Multimodal RAG :rocket:
+### 1.2 Multimodal RAG 🚀
 - **Description**: Combines multiple data types (text, images, audio, video) to retrieve relevant information and generate responses.
 - **Use Cases**:
   - **E-commerce Visual Search**: Users upload images of products to find similar items, enhancing product recommendations by combining visual and text data.
