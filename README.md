@@ -1,4 +1,4 @@
-# Advanced RAG Approaches🧭
+# Advanced RAGs Approaches🧭
 
 ## 1. RAGs Types and Use Cases⏫
 
