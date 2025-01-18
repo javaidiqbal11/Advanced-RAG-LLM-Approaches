@@ -78,7 +78,7 @@ The following RAG types were analyzed and tested with simple and complex documen
 > [Adaptive RAG Architecture Flow Diagram Source](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
 
 
-- **Multivector Retriever** :flying_saucer:
+- **Multivector Retriever** 🥏
   - **Description**: Retrieves relevant documents using multiple vectors for different aspects of the query.
   - **Use Case**: Ideal for complex queries requiring nuanced retrieval, such as legal case searches where different legal precedents must be considered.
 
