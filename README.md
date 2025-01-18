@@ -82,19 +82,19 @@ The following RAG types were analyzed and tested with simple and complex documen
   - **Description**: Retrieves relevant documents using multiple vectors for different aspects of the query.
   - **Use Case**: Ideal for complex queries requiring nuanced retrieval, such as legal case searches where different legal precedents must be considered.
 
-- **RAG QA** :flying_saucer:
+- **RAG QA** 🥏
   - **Description**: A question-answering system that retrieves documents and generates answers based on them.
   - **Use Case**: Perfect for customer support or knowledge base systems, providing accurate answers to specific user questions.
 
-- **RAG Retrieval** :flying_saucer:
+- **RAG Retrieval** 🥏
   - **Description**: Focuses on retrieving the most relevant documents to answer a query.
   - **Use Case**: Best for document-centric tasks like legal research or academic literature review, where finding the right document is key.
 
-- **RAG Re-Ranker** :flying_saucer:
+- **RAG Re-Ranker** 🥏
   - **Description**: Reranks retrieved documents based on relevance to the query, improving answer precision.
   - **Use Case**: Effective in search engine optimization and refining search results, ensuring the most relevant information is presented first.
 
-- **RAG Custom Retrieval** :flying_saucer:
+- **RAG Custom Retrieval** 🥏
   - **Description**: Allows customization of the retrieval process to tailor results to specific needs or domains.
   - **Use Case**: Suitable for specialized industries like healthcare or finance, where custom retrieval criteria are necessary for compliance and accuracy.
 
