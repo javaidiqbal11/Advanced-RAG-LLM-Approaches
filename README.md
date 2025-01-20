@@ -9,67 +9,67 @@
 ### 1.1 RAG with Test Cases ☘️
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
-- **Contextual Compression RAG** :flying_saucer:
+- **Contextual Compression RAG** 🤖
   - **Description**: Efficient retrieval, ideal for limited computational resources.
   - **Use Case**: Best for mobile apps or low-power devices needing quick, efficient responses without heavy processing.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **Normal/Simple RAG** :flying_saucer:
+- **Normal/Simple RAG** 🤖
   - **Description**: Balanced retrieval and generation for general use cases.
   - **Use Case**: Suitable for everyday applications like chatbots or virtual assistants where a balanced approach is required.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **MultiQueryRetriever** :flying_saucer:
+- **MultiQueryRetriever** 🤖
   - **Description**: Focuses on query diversity for comprehensive retrieval.
   - **Use Case**: Ideal for research tools or complex information retrieval systems where multiple angles of a query need to be covered.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Token** :flying_saucer:
+- **RAG Token** 🤖
   - **Description**: Offers fine-grained control over content generation.
   - **Use Case**: Useful for content creation tools such as legal or technical writing, where detailed, precise output is necessary.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Open Domain QA** :flying_saucer:
+- **RAG Open Domain QA**🤖
   - **Description**: Designed for handling diverse, open-domain questions.
   - **Use Case**: Perfect for knowledge-based systems or helpdesks where questions span various topics.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Dual Encoder** :flying_saucer:
+- **RAG Dual Encoder** 🤖
   - **Description**: Enhances retrieval accuracy by aligning queries with documents.
   - **Use Case**: Effective for search engines or recommendation systems where query-document alignment is crucial for relevance.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Hybrid** :flying_saucer:
+- **RAG Hybrid** 🤖
   - **Description**: Combines multiple retrieval methods for better outcomes.
   - **Use Case**: Best for complex environments like enterprise search where different retrieval strategies need to be integrated.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Collaborative** :flying_saucer:
+- **RAG Collaborative** 🤖
   - **Description**: Tailored for personalization with user preference integration.
   - **Use Case**: Ideal for recommendation engines or personalized content delivery where user preferences are a priority.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Parallel** :flying_saucer:
+- **RAG Parallel** 🤖
   - **Description**: Rapid processing from multiple sources for time-sensitive tasks.
   - **Use Case**: Suitable for real-time analytics or fast-response systems where data from various sources needs to be quickly aggregated.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Personalization** :flying_saucer:
+- **RAG Personalization** 🤖
   - **Description**: Customizes responses for individual users.
   - **Use Case**: Perfect for customer support or personalized marketing where responses must align closely with user profiles.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
  
-- **RAG Enhanced Context** :flying_saucer:
+- **RAG Enhanced Context** 🤖
   - **Description**: Deep contextual understanding for informed responses.
   - **Use Case**: Great for technical support or expert systems requiring detailed contextual analysis to provide accurate answers.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **RAG Iterative Refinement** :flying_saucer:
+- **RAG Iterative Refinement** 🤖
   - **Description**: Continuous improvement of responses for high accuracy.
   - **Use Case**: Optimal for critical applications like legal or financial advising where responses must be refined and accurate over time.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **[Adaptive RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)** :flying_saucer:
+- **[Adaptive RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)** 🤖
   - **Description**: Adjusts retrieval and generation strategies based on changing contexts or user needs.
   - **Use Case**: Ideal for dynamic environments like real-time collaboration platforms or adaptive learning systems, where the model must adapt to evolving inputs or scenarios.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/30a808d04f162c4b905d4a3f75ff135a367f54a4/src/app_Adaptive_RAG.py)
