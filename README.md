@@ -110,44 +110,44 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - **Use Case**: Useful for comprehensive research tasks where information needs to be aggregated from different sources or contexts.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
-- **RAG Multistep** :flying_saucer:
+- **RAG Multistep** 🉑
   - **Description**: Breaks down a complex query into smaller, manageable steps for sequential retrieval and answer generation.
   - **Use Case**: Ideal for multi-faceted queries in fields like data analysis, where each step builds on the previous result.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
-- **RAG Summarizer** :flying_saucer:
+- **RAG Summarizer** 🉑
   - **Description**: Summarizes long documents after retrieving them, providing concise information.
   - **Use Case**: Useful for content curation and generating executive summaries from detailed reports or articles.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
-- **RAG Conditional** :flying_saucer:
+- **RAG Conditional** 🉑
   - **Description**: Retrieves and generates responses based on specific conditions or rules set by the user.
   - **Use Case**: Ideal for rule-based decision-making systems in environments like compliance checks or automated customer service.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
-- **Reliable RAG** :flying_saucer:
+- **Reliable RAG** 🉑
   - **Description**: Ensures accurate and fact-checked responses by combining real-time data retrieval with generated text.
   - **Use Case**: Ideal for generating reliable answers to complex queries in fields like legal research, healthcare, and customer support, where accuracy is critical.
  
-- **Self RAG** :flying_saucer:
+- **Self RAG** 🉑
   - **Description**: Self-RAG (Retrieve-Then-Answer Generation) is a technique that leverages a retriever model to extract relevant information and a generator model to produce detailed responses based on the retrieved content.
   - **Use Case**: Ideal for automated customer support systems, enabling them to retrieve specific answers from a knowledge base and generate accurate, natural language responses.
 
-- **[Corrective RAG (CRAG)](https://arxiv.org/abs/2401.15884)** :flying_saucer:
+- **[Corrective RAG (CRAG)](https://arxiv.org/abs/2401.15884)** 🧩
   - **Description**: Refines and corrects outputs based on retrieved context from a knowledge source.
   - **Use Case**: Ideal for document review systems where corrections are needed based on real-time knowledge retrieval, such as updating legal documents or revising technical reports.
   ![CRAG](https://github.com/javaidiqbal11/Advanced-RAG-Approaches/blob/593b6d30215c7e00e0b19e512189f63227128747/materials/CRAG_Architecture.png) <br>
   [Source](https://arxiv.org/abs/2401.15884)
 
-- **RAPTOR RAG** :flying_saucer:
+- **RAPTOR RAG** 🧩
   - **Description**: Optimized for speed and accuracy using advanced retriever algorithms with streamlined processing.
   - **Use Case**: Ideal for real-time customer support applications, RAPTOR RAG quickly retrieves relevant data to generate precise responses, enhancing user interaction in fast-paced environments.
 
-- **Tree RAG** :flying_saucer:
+- **Tree RAG** 🧩
   - **Description**: Organizes information into a tree-like structure, enabling multi-level, context-aware responses.
   - **Use Case**: Ideal for answering complex queries that require multi-step reasoning or context chaining, such as legal case analysis or technical troubleshooting.
 
-- **Multihoop RAG** :flying_saucer:
+- **Multihoop RAG** 🧩
   - **Description**: Uses multiple feedback loops to refine and improve the relevance of retrieved data for complex queries.
   - **Use Case**: Ideal for scenarios requiring iterative query refinement, such as legal document analysis or multi-step research, where accurate retrieval from large datasets is critical.
 
