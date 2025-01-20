@@ -100,12 +100,12 @@ The following RAG types were analyzed and tested with simple and complex documen
 
 The following RAGs were not supported with the VectorStoreRetriever dataset and worked for HotpotQA and TriviaQA:
  
-- **RAG Sequence** :flying_saucer:
+- **RAG Sequence** 🉑
   - **Description**: Retrieves and generates answers in a step-by-step sequence, refining the response iteratively.
   - **Use Case**: Suitable for multi-part questions, like technical troubleshooting, where each step depends on the previous one.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
-- **RAG Chain** :flying_saucer:
+- **RAG Chain** 🉑
   - **Description**: Chains together multiple RAG models to handle complex queries by passing outputs between models.
   - **Use Case**: Useful for comprehensive research tasks where information needs to be aggregated from different sources or contexts.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
