@@ -242,7 +242,7 @@ LangGraph is a graph-based framework or system designed to manage, connect, and 
 - **Knowledge Graph Integration:** Building intelligent systems that reason over interconnected data (e.g., chatbots).
 - **Text Summarization and Generation:** Structuring content creation with more context-aware results.
 ### [LangGraph ReAct Agent Framework](https://github.com/javaidiqbal11/react-agent)
-LangGraph ReAct Agent is a component or framework used for integrating language models, like those powered by GPT, with React applications. It acts as a middleware or agent that facilitates dynamic interaction between a React frontend and language processing capabilities, enhancing user experiences with conversational interfaces or intelligent automation.<br>  
+LangGraph ReAct Agent is  the component or framework used for integrating language models, like those powered by GPT, with React applications. It acts as a middleware or agent that facilitates dynamic interaction between a React frontend and language processing capabilities, enhancing user experiences with conversational interfaces or intelligent automation.<br>  
 
 ## 5. Resources ℹ️
 [1]. [Prompt Engineering Guide by OpenAI](https://www.promptingguide.ai/) <br> 
