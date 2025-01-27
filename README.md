@@ -253,4 +253,6 @@ LangGraph ReAct Agent is  the component or framework used for integrating langua
 [6]. [Latest Advancements in RAG](https://www.linkedin.com/pulse/latest-advancements-rag-every-developer-should-know-pavan-belagatti-jommc/) <br>
 [7] [LangGraph](https://langchain.com/langgraph) <br>
 [8]. [langGraph](https://langchain-ai.github.io/langgraph/) <br>
-[9]. [Build RAG](https://python.langchain.com/v0.2/docs/tutorials/rag/)
+[9]. [Build RAG](https://python.langchain.com/v0.2/docs/tutorials/rag/) <br>
+[10]. [large Language Models Tutorilas](https://github.com/atef-ataya/Large-Language-Models-Tutorial/tree/master) 
+
