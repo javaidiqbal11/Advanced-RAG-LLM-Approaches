@@ -1,4 +1,4 @@
-# Advanced RAGs Approaches🧭
+# Advanced RAGs and LLM Approaches🧭
 
 ## 1. RAGs Types and Use Cases⏫
 
