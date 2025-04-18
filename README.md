@@ -166,7 +166,8 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - Have separate stores for different modalities
 
 ### 1.3 [Graph RAG](https://microsoft.github.io/graphrag/) 🚀
-- **Description**: Leverages graph-based representations to retrieve relevant information, offering more accurate and explainable results by establishing relationships between entities.
+- **Description**: Leverages graph-based representations to retrieve relevant information, offering more accurate and explainable results by establishing relationships between entities. <br>
+
 ![RAG Pipeline](materials/Graph_RAG.png) <br>
 [Graph RAG Architecture](https://www.vellum.ai/blog/graphrag-improving-rag-with-knowledge-graphs)
 
