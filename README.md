@@ -167,6 +167,9 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 
 ### 1.3 [Graph RAG](https://microsoft.github.io/graphrag/) 🚀
 - **Description**: Leverages graph-based representations to retrieve relevant information, offering more accurate and explainable results by establishing relationships between entities.
+![RAG Pipeline](materials/Graph_RAG.png) <br>
+[Graph RAG Architecture](https://www.vellum.ai/blog/graphrag-improving-rag-with-knowledge-graphs)
+
 - **Use Cases**:
   - **Healthcare Documentation**: Automatically generate patient reports by retrieving and linking medical records based on symptoms and diagnoses using graph relationships.
   - **Customer Support**: Provide precise troubleshooting steps by retrieving interconnected knowledge from product manuals and past cases.
