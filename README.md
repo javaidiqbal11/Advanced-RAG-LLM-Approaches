@@ -1,13 +1,13 @@
 # Advanced RAGs and LLM Approaches🧭
 
-## 1. RAGs Types and Use Cases⏫
+## 1. RAG Types ⏫
 
 ![RAG Pipeline](materials/RAG_Pipeline.jpg) <br>
 [RAG Pipeline Source](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)
 
 
-### 1.1 RAG with Test Cases ☘️
-The following RAG types were analyzed, tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
+### 1.1 RAG with Use Cases ☘️
+The following RAG types are analyzed, tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
 - **Contextual Compression RAG** 🤖
   - **Description**: Efficient retrieval, ideal for limited computational resources.
@@ -19,7 +19,7 @@ The following RAG types were analyzed, tested with simple and complex documents 
   - **Use Case**: Suitable for everyday applications like chatbots or virtual assistants where a balanced approach is required.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
 
-- **MultiQueryRetriever** 🤖
+- **MultiQuery Retriever** 🤖
   - **Description**: Focuses on query diversity for comprehensive retrieval.
   - **Use Case**: Ideal for research tools or complex information retrieval systems where multiple angles of a query need to be covered.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/4abfcaa0f8364824f0f9be1a9dbabe46e94aeb85/src/app_13_RAGs.py)
