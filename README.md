@@ -1,5 +1,6 @@
 # Advanced RAGs and LLM Approaches🧭
 
+AI Agents
 ## 1. RAG Types ⏫
 
 ![RAG Pipeline](materials/RAG_Pipeline.jpg) <br>
